@@ -1,7 +1,7 @@
 # sahada2_app
 
-A new Flutter project.
-
+A new Flutter project for Software Engineering lesson.
+Name the porjcet is Sahada App
 ## Getting Started
 
 This project is a starting point for a Flutter application.
