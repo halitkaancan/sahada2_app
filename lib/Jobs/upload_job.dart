@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:sahada2_app/Widgets/bottom_nav_bar.dart';
+
 
 class UploadJobNow extends StatefulWidget {
 
@@ -19,7 +21,7 @@ class _UploadJobNowState extends State<UploadJobNow> {
           )
       ),
       child:  Scaffold(
-        //bottomNavigationBar: BottomNavigationBarForApp(indexNum: 1,),
+        bottomNavigationBar: BottomNavigationBarForApp(indexNum: 2,),
         backgroundColor: Colors.transparent,
         appBar: AppBar(
           title: Text('İlanı Güncelle'),

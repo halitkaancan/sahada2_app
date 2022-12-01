@@ -24,7 +24,7 @@ class _AllWorkersState extends State<AllWorkersSecreen> {
         bottomNavigationBar: BottomNavigationBarForApp(indexNum: 1,),
         backgroundColor: Colors.transparent,
         appBar: AppBar(
-          title: Text('Maç ilanı ver'),
+          title: Text('Kendine saha bul'),
           centerTitle: true,
           flexibleSpace: Container(
             decoration: BoxDecoration(

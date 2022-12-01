@@ -20,7 +20,7 @@ class _UserProfileState extends State<UserProfile> {
           )
       ),
       child:  Scaffold(
-        bottomNavigationBar: BottomNavigationBarForApp(indexNum: 2,),
+        bottomNavigationBar: BottomNavigationBarForApp(indexNum: 3,),
         backgroundColor: Colors.transparent,
         appBar: AppBar(
           title: Text('Profilim'),
